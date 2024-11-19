@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	2
+../Core/Src/main.c:44:5:main	3
+../Core/Src/main.c:103:7:calculate_RMS	1
+../Core/Src/main.c:124:6:print_hashes	2
+../Core/Src/main.c:137:6:UART_print_float	1
+../Core/Src/main.c:147:6:UART_print_int	1
+../Core/Src/main.c:155:6:Calculate_Frequency	10
+../Core/Src/main.c:215:6:reset	2
+../Core/Src/main.c:231:6:TIM2_IRQHandler	2
+../Core/Src/main.c:241:6:TIM_init	1
+../Core/Src/main.c:268:6:ADC1_2_IRQHandler	2
+../Core/Src/main.c:281:6:ADC_init	4
+../Core/Src/main.c:335:6:UART_init	1
+../Core/Src/main.c:360:6:UART_print	3
+../Core/Src/main.c:370:6:USART2_IRQHandler	3
+../Core/Src/main.c:413:6:SystemClock_Config	4
+../Core/Src/main.c:461:6:Error_Handler	1
